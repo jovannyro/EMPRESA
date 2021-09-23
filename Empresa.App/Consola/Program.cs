@@ -10,7 +10,7 @@ namespace Consola
         static void Main(string[] args)
         {
             Console.WriteLine(" ------ Bienvenido ----- ");
-            AddPersona();
+            //AddPersona();
             //UpdatePersona();
             //DeletePersona();
             //GetPersona();
